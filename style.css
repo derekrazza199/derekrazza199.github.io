@@ -10,6 +10,6 @@ body { background-color: #A9A9A9;}
   background-image: url("SUNSET.jpg");
 }
 
-p {
+#p {
   text-length: 800px;
 }
