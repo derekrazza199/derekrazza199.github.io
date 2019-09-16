@@ -9,3 +9,7 @@ body { background-color: #A9A9A9;}
 #picture {
   background-image: url("SUNSET.jpg");
 }
+
+p {
+  text-length: 800px;
+}
