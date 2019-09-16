@@ -5,3 +5,7 @@ body { background-color: #A9A9A9;}
 .paragraph {
   width: 800px; 
 }
+
+#picture {
+  background-image: url("SUNSET.jpg");
+}
